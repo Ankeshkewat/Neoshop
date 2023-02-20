@@ -21,5 +21,5 @@ FEATURES:
 ## Signup page
 ![image](https://user-images.githubusercontent.com/60172576/220152709-2f6f75a8-90bc-4114-9da3-e2af82077ca1.png)
 
-## Checkout page
+## Cart page
 ![image](https://user-images.githubusercontent.com/60172576/220153217-fe90c808-9aa3-48d7-a7ee-1d01f103d6c3.png)
