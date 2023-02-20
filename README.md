@@ -1,6 +1,7 @@
 # Uboric Clone #
 
-E-commerce website for Clothing, Electric Appliances, and many more
+E-commerce website for Clothing, Electric Appliances, and many more.
+It is a collaborative projects.
 
 #### Tech Stack  : HTML, CSS, JAVASCRIPT ####
 
